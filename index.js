@@ -41,4 +41,4 @@ const makeCommit = async (n) => {
   }
 };
 
-makeCommit(100).catch(console.error);
+makeCommit(3).catch(console.error);
